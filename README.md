@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Bumigora University<br>🌱 I’m currently learning Flutter and Laravel<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying on Bumigora University<br>🌱 I’m currently learning Flutter and React<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
